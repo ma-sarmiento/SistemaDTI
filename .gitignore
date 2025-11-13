@@ -1,0 +1,41 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas temporales
+tmp/
+temp/
+
+# Archivos de editor
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos de bases de datos locales (si los llegas a generar)
+*.db
+*.sqlite
+*.sql~ 
+*.dmp
+*.bak
+
+# Archivos de Oracle / SQL Developer
+*.dat
+*.ora
+*.trc
+*.trm
+
+# Archivos comprimidos (si ya los subiste descomprimidos)
+*.zip
+*.rar
+
+# Archivos Excel temporales
+~$*.xlsx
+~$*.xls
+
+# Archivos de caché
+.cache/
