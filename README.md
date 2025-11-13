@@ -9,8 +9,6 @@ El sistema modela la operación básica de una entidad aseguradora y permite cal
 
 ## 📌 Funcionalidades principales
 
-## 📌 Funcionalidades principales
-
 El sistema incorpora la estructura de datos necesaria para gestionar pólizas de seguro, sus tomadores y sus coberturas. Incluye:
 
 - Creación de las tablas base del sistema.
