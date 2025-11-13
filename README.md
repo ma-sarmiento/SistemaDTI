@@ -7,6 +7,9 @@ El sistema modela la operación básica de una entidad aseguradora y permite cal
 
 ---
 
+> Nota: Aunque GitHub clasifica el repositorio como PLSQL por la extensión, el contenido corresponde principalmente a SQL estándar y consultas en Oracle.
+> 
+---
 ## 📌 Funcionalidades principales
 
 El sistema incorpora la estructura de datos necesaria para gestionar pólizas de seguro, sus tomadores y sus coberturas. Incluye:
