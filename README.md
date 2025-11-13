@@ -83,7 +83,7 @@ Las consultas del sistema permiten calcular el valor de la póliza combinando lo
 
 ---
 
-📊 Estado del proyecto
+# 📊 Estado del proyecto
 
 Este proyecto se revisó y reorganizó para su publicación en GitHub con fines académicos y de portafolio personal.
 Los scripts fueron probados en OracleXE y Oracle Live y funcionan de forma independiente.
